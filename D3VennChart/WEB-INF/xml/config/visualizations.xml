@@ -1,0 +1,11 @@
+<visualizations>
+    <visualization-list name="ajax">
+        <visualization id="D3VennChart" desc="D3 Venn Chart" scope="19" projects="" style-name="D3VennChart" is-mojo="true" attribute-minimum="0" metric-minimum="1"/>
+    </visualization-list>
+    <visualization-list name="ipad" view-mode="71" show-in-web="false">
+        <visualization id="D3VennChart" desc="D3 Venn Chart" scope="19" projects="" style-name="D3VennChart" attribute-minimum="0" metric-minimum="1"/>
+    </visualization-list>
+    <visualization-list name="iphone" view-mode="70" show-in-web="false">
+        <visualization id="D3VennChart" desc="D3 Venn Chart" scope="19" projects="" style-name="D3VennChart" attribute-minimum="0" metric-minimum="1"/>
+    </visualization-list>
+</visualizations>
