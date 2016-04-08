@@ -1,0 +1,3 @@
+String sProject="DEV UL GTC Seed Project V2";
+
+executeCapture("RUN SEARCH "All Objects" IN FOLDER "\Public OBJECTS\SEARCHES" FOR PROJECT "Tutorial Project";");
